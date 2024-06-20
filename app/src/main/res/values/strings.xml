@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="greek_guy">Greek Guy</string>
+    <string name="greek_guy_year">2021</string>
+    <string name="forest_dawn_deer">Forest at Dawn</string>
+    <string name="forest_dawn_deer_year">2022</string>
+    <string name="picture_with_drawing_man_face">Picture with drawing man\'s Face</string>
+    <string name="picture_with_drawing_man_face_year">2023</string>
+    <string name="urban_double_exposure_concept">Double exposure urban area concept </string>
+    <string name="urban_double_exposure_concept_year">2024</string>
+    <string name="psychedelic_hand">Psychedelic Hand</string>
+    <string name="psychedelic_hand_year">2020</string>
+</resources>
